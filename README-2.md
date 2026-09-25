@@ -172,4 +172,34 @@ B(θ) = 0.26 + 0.30 · sin²(θ − φ)
 
 ---
 
-© 2026 조준동 · Humartology. All rights reserved.
+## 저작권 및 이용 조건 (Copyright & License)
+
+**© 2026 조준동 (Jun-Dong Cho) · Humartology Lab. All rights reserved.**
+
+이 게임 「다뉴세문경, 빛의 연대기」의 소스 코드, 게임 설계, 이야기와 문항, 해설 글, 그림과 화면 구성, 음성 안내 문구에 대한 저작권은 조준동(Humartology Lab)에게 있습니다.
+
+**허용되는 이용**
+- 개인 감상과 플레이
+- 학교, 박물관, 복지관 등의 교육·비영리 목적 전시와 수업에서 **원래 주소로 링크하거나 그대로 보여 주는 것**
+- 출처를 밝힌 짧은 인용과 화면 캡처 (연구, 보도, 비평, 소개 목적)
+
+**사전 허락이 필요한 이용**
+- 코드나 그림, 글의 복제, 수정, 재배포, 다른 사이트에 다시 올리기
+- 상업적 이용 (유료 전시, 판매, 광고, 상품화 등)
+- 이 게임을 바탕으로 한 2차 창작물이나 파생 작품의 공개
+
+허락 문의: jdcho@skku.edu
+
+**제3자 권리**
+- **다뉴세문경 실물:** 숭실대학교 한국기독교박물관 소장품입니다. 게임 속 거울 도면은 3D 스캔을 바탕으로 한 실측 선도이며, 원 유물과 스캔 자료에 대한 권리는 해당 소장 기관과 자료 제작자에게 있습니다.
+- **글꼴:** 나눔명조, IBM Plex Sans KR은 SIL Open Font License 1.1에 따라 Google Fonts에서 불러와 사용합니다. 이 저장소에 글꼴 파일은 포함되어 있지 않습니다.
+- **근거 논문:** 게임의 과학적 내용은 아래 논문을 바탕으로 합니다. 논문의 저작권은 저자와 게재 학술지의 규정을 따릅니다.
+
+**인용 방법**
+
+> 조준동. 「다뉴세문경, 빛의 연대기」 (웹 게임). Humartology Lab, 2026.
+> Cho, Jun-Dong. *Danyusemun-gyeong: A Chronicle of Light* (web game). Humartology Lab, 2026.
+
+---
+
+*The source code, game design, narrative, quiz content, commentary, graphics, and voice-guide text of this work are the copyright of Jun-Dong Cho (Humartology Lab). Personal play, non-commercial educational use by linking to the original page, and short quotations with attribution are permitted. Any reproduction, modification, redistribution, or commercial use requires prior written permission. Contact: jdcho@skku.edu*
